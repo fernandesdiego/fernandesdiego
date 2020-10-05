@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm a versatile professional, with experience in IT infrastructure, IT service management, and now i'm looking for an entry level job as a programmer.
+I'm a versatile professional, with experience in IT infrastructure, IT service management, working on international projects, and now i'm looking for an entry level job as a programmer.
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/diego-f/)
 [![Website](https://img.shields.io/badge/-Website-blue?style=flat&logo=internet-explorer&logoColor=white)](https://diegofernandes.dev/)
