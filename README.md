@@ -1,13 +1,16 @@
 ### Hi there 👋
-I'm a versatile professional, with experience in IT infrastructure, IT service management, working on international projects, and now i'm looking for an entry level job as a programmer.
+I'm a versatile professional, with experience in Software Development, IT Infrastructure & IT Service Management. I have btech on computer systems analysis and development.
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/diego-f/)
-[![Website](https://img.shields.io/badge/-Website-blue?style=flat&logo=internet-explorer&logoColor=white)](https://diegofernandes.dev/)
-[![Blogger](https://img.shields.io/badge/-Blogger-blue?style=flat&logo=blogger&logoColor=white)](https://blog.diegofernandes.dev/)
+I'm open to new oportunities and challenges as backend developer. Check my LinkedIn below for more info. 
+
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/diego-f/) [![Blogger](https://img.shields.io/badge/-Blogger-blue?style=flat&logo=blogger&logoColor=white)](https://blog.diegofernandes.dev/)
+<!-- [![Website](https://img.shields.io/badge/-Website-blue?style=flat&logo=internet-explorer&logoColor=white)](https://diegofernandes.dev/) -->
 
 
-| [![Diego's github stats](https://github-readme-stats.vercel.app/api?username=fernandesdiego&count_private=true)](#) | [![Diego's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=fernandesdiego)](https://wakatime.com/@fernandesdiego) |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------|
+
+[![Diego's github stats](https://github-readme-stats.vercel.app/api?username=fernandesdiego&count_private=true&show_icons=true&theme=github_dark)](#)
+
+[![Diego's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=fernandesdiego&show_icons=true&theme=github_dark)](https://wakatime.com/@fernandesdiego) 
 
 
 
